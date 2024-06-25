@@ -8,11 +8,7 @@ function App() {
 
   return (
     <>
-<<<<<<< HEAD
       hello world
-=======
-      hell
->>>>>>> d9d933833fb11bda175d75ddb35117835bdd499a
     </>
   )
 }

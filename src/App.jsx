@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      hello world12
+      <h1>Hello World it's Wakar</h1>
     </>
   )
 }
